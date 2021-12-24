@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex&#39;s projects on Alex de Siqueira</title>
+    <link>https://alexdesiqueira.github.io/projects/</link>
+    <description>Recent content in Alex&#39;s projects on Alex de Siqueira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alexdesiqueira.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mothra</title>
+      <link>https://alexdesiqueira.github.io/projects/mothra/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexdesiqueira.github.io/projects/mothra/</guid>
+      <description>Mothra analyzes images of lepidopterans — mainly butterfles and moths — and measures their wing lengths. Using binarization techniques and calculating the resolution of ruler ticks, we read in images of lepidopterans and output the millimiter lengths of their wings.</description>
+    </item>
+    
+  </channel>
+</rss>
